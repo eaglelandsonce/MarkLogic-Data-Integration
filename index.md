@@ -4,7 +4,7 @@
 
 Prerequisites for this course, as well as the course description, are in the [course overview](the_course/overview.htm).
 
-| Unit                                                       | Topic Discussion                                                                                                                   | Exercise/Lab                                                                                                                   | Quiz                                          |
+| Unit                                                         | Topic Discussion                                                                                                                   | Exercise/Lab                                                                                                                   | Quiz                                          |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
 | **Unit 1: Using MarkLogic for Data Integration**             | [Understanding an Operational Data Hub](the_course/units/0101_understanding_an_operational_data_hub.htm)                           | [Understand an Operational Data Hub](the_course/units/0101_x_understand_an_operational_data_hub.htm)                           |
 |                                                              | [Learning About MarkLogic as a Multi-Model Database](the_course/units/0102_learning_about_marklogic_as_a_multi-model_database.htm) | [Learn About MarkLogic as a Multi-Model Database](the_course/units/0102_x_learn_about_marklogic_as_a_multi-model_database.htm) |
@@ -64,8 +64,8 @@ Prerequisites for this course, as well as the course description, are in the [co
 
 ***
 
-| Unit                                            | Topic Discussion                                                                                                       | Exercise/Lab                                                                                   | Quiz |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
+| Unit                                              | Topic Discussion                                                                                                       | Exercise/Lab                                                                                   |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Unit A: Learning About the Data Hub Framework** | [Understanding the Data Hub Framework](the_course/units/xa01_understanding_the_data_hub_framework.htm)                 | [Access the Data Hub Framework](the_course/units/xa01_x_access_the_data_hub_framework.htm)     |
 | **Unit B: Student Computer Setup**                | [Understanding the Course System Requirements](the_course/units/xb01_understanding_the_course_system_requirements.htm) | [Check for Hardware Requirements](the_course/units/xb01_x_check_for_hardware_requirements.htm) |
 |                                                   | [Creating the Course Virtual Machine](the_course/units/xb02_creating_the_course_virtual_machine.htm)                   | [See the Steps That Were Done](the_course/units/xb02_x_see_the_steps_that_were_done.htm)       |
